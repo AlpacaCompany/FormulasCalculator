@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 7cfcad267bb5de84ea5dfd7259b3739c
+  - enabled: 1
+    path: Assets/Scenes/Calculator.unity
+    guid: 554779dd6046dfe45b0790ce5d4c1ca4
+  - enabled: 1
+    path: Assets/Scenes/Explain.unity
+    guid: 1d774708f47ab6c4bbfe730c6735620e
+  - enabled: 1
+    path: Assets/Scenes/C-first.unity
+    guid: a753712e3e6ced542ad7a9f461740492
+  - enabled: 1
+    path: Assets/Scenes/C-second.unity
+    guid: ee2c5a9c4ec6b5e44860ae36b848620a
+  - enabled: 1
+    path: Assets/Scenes/C-third.unity
+    guid: 539353aea9345af418d5f30f8d9bae1f
+  - enabled: 1
+    path: Assets/Scenes/E-first.unity
+    guid: 99389acd4ccc6f7429107e1cb30afe2e
+  - enabled: 1
+    path: Assets/Scenes/E-second.unity
+    guid: 1e17100ea3310614884b6685d20cf6e8
+  - enabled: 1
+    path: Assets/Scenes/E-third.unity
+    guid: b6339c441a01019428995278590268d3
+  - enabled: 1
+    path: "Assets/Scenes/C-FirstFolder/\uACF5\uC57D\uC218.unity"
+    guid: 6b4006595cbf3234bb6b93bb6a3b96db
+  - enabled: 1
+    path: "Assets/Scenes/C-FirstFolder/\uBD84\uC218\uC57D\uBD84.unity"
+    guid: 77a97e14f6601df4f93b417bcb189e62
+  - enabled: 1
+    path: "Assets/Scenes/C-FirstFolder/\uC0AC\uCE59\uC5F0\uC0B0.unity"
+    guid: 5a495b83488a25b49a182d1f02410f39
+  - enabled: 1
+    path: "Assets/Scenes/C-FirstFolder/\uC138\uC218\uC57D\uBD84.unity"
+    guid: 708350894a138d04c8523472409193ba
+  - enabled: 1
+    path: "Assets/Scenes/C-FirstFolder/\uC18C\uC778\uC218\uBD84\uD574.unity"
+    guid: 2c8f2b66f7e792d4dafb7165f4662888
+  - enabled: 1
+    path: "Assets/Scenes/C-FirstFolder/\uC57D\uC218.unity"
+    guid: 29378ef26a40bce4192b79defeceb3c6
+  - enabled: 1
+    path: "Assets/Scenes/C-FirstFolder/\uCD5C\uB300\uACF5\uC57D\uC218.unity"
+    guid: e090d15ac2266c440a129b1b4e0bbde7
+  - enabled: 1
+    path: "Assets/Scenes/C-FirstFolder/\uCD5C\uC18C\uACF5\uBC30\uC218.unity"
+    guid: d11f0b0322d5e49479e7b45ac026eb9e
+  - enabled: 1
+    path: "Assets/Scenes/C-SecondFolder/\uADFC\uC758\uAC1C\uC218.unity"
+    guid: a1a17c48478ffe94d84d656b6aa46da5
+  - enabled: 1
+    path: "Assets/Scenes/C-SecondFolder/\uADFC\uC758\uACF5\uC2DD.unity"
+    guid: d905b91af4617fc4395510949d8f457f
+  - enabled: 1
+    path: "Assets/Scenes/C-SecondFolder/\uB0B4\uAC01\uC758\uD569.unity"
+    guid: 0acb4891156b6d74a9fa36429caf17fc
+  - enabled: 1
+    path: "Assets/Scenes/C-SecondFolder/\uB300\uAC01\uC120\uC758\uCD1D\uAC1C\uC218.unity"
+    guid: a333aea27fcaac94eb4a2b4671736a0a
+  - enabled: 1
+    path: "Assets/Scenes/C-SecondFolder/\uC18C\uC218\uD569\uC131\uC218\uD310\uBCC4.unity"
+    guid: d07d5ba5c6d5be3448f0946ab56da7b5
+  - enabled: 1
+    path: "Assets/Scenes/C-SecondFolder/\uC21C\uD658\uC18C\uC218\uC720\uB9AC\uD654.unity"
+    guid: e8943070afdb4cf42a83dc229b275223
+  - enabled: 1
+    path: "Assets/Scenes/C-SecondFolder/\uC720\uB9AC\uD654.unity"
+    guid: 4fe30d7217305334f9ad9457f3450cca
+  - enabled: 1
+    path: "Assets/Scenes/C-SecondFolder/\uD53C\uD0C0\uACE0\uB77C\uC2A4.unity"
+    guid: 100627ca8242dda40a0a822739ac9849
+  - enabled: 1
+    path: "Assets/Scenes/E-FirstFolder/\uACF5\uC57D\uC218\uC124\uBA85.unity"
+    guid: 58a1f21a8f049e747a14bba3e1acb29e
+  - enabled: 1
+    path: "Assets/Scenes/E-FirstFolder/\uBD84\uC218\uC57D\uBD84\uC124\uBA85.unity"
+    guid: 34d7b7ea9774dcd4881277c2ddec037d
+  - enabled: 1
+    path: "Assets/Scenes/E-FirstFolder/\uC0AC\uCE59\uC5F0\uC0B0\uC124\uBA85.unity"
+    guid: 38561dd4e0c6e8840b8ac1e03f833872
+  - enabled: 1
+    path: "Assets/Scenes/E-FirstFolder/\uC138\uC218\uC57D\uBD84\uC124\uBA85.unity"
+    guid: ee47d29a89ae1294e9e3b5ef8c20be78
+  - enabled: 1
+    path: "Assets/Scenes/E-FirstFolder/\uC18C\uC778\uC218\uBD84\uD574\uC124\uBA85.unity"
+    guid: e18136e1d1452d943bcbf620ea15bfe9
+  - enabled: 1
+    path: "Assets/Scenes/E-FirstFolder/\uC57D\uC218\uC124\uBA85.unity"
+    guid: 275608d43d0ec904b9319d1ff8308664
+  - enabled: 1
+    path: "Assets/Scenes/E-FirstFolder/\uCD5C\uB300\uACF5\uC57D\uC218\uC124\uBA85.unity"
+    guid: e0a45eebdf83d1e4eaa0e9859ea83186
+  - enabled: 1
+    path: "Assets/Scenes/E-FirstFolder/\uCD5C\uC18C\uACF5\uBC30\uC218\uC124\uBA85.unity"
+    guid: 48821ca35c506ba44aa99e5f512ef0d9
+  - enabled: 1
+    path: "Assets/Scenes/E-SecondFolder/\uADFC\uC758\uAC1C\uC218\uC124\uBA85.unity"
+    guid: 2073965c2ef969044b2a7d7015ffd93c
+  - enabled: 1
+    path: "Assets/Scenes/E-SecondFolder/\uADFC\uC758\uACF5\uC2DD\uC124\uBA85.unity"
+    guid: 4419c1a367bb0544da4267cd147df119
+  - enabled: 1
+    path: "Assets/Scenes/E-SecondFolder/\uB0B4\uAC01\uC758\uD569\uC124\uBA85.unity"
+    guid: 71dfe0dbe707a844389c382bba1cf1d9
+  - enabled: 1
+    path: "Assets/Scenes/E-SecondFolder/\uB300\uAC01\uC120\uC758\uCD1D\uAC1C\uC218\uC124\uBA85.unity"
+    guid: c400ed531bbe1184c81775493b59563e
+  - enabled: 1
+    path: "Assets/Scenes/E-SecondFolder/\uC18C\uC218\uD569\uC131\uC218\uD310\uBCC4\uC124\uBA85.unity"
+    guid: f8953067c567f8241981902cc93bcda1
+  - enabled: 1
+    path: "Assets/Scenes/E-SecondFolder/\uC21C\uD658\uC18C\uC218\uC720\uB9AC\uD654\uC124\uBA85.unity"
+    guid: f5e0a85c85f3f7640883a23d644c867b
+  - enabled: 1
+    path: "Assets/Scenes/E-SecondFolder/\uC720\uB9AC\uD654\uC124\uBA85.unity"
+    guid: b0e45a1bb2d592644b85e1ad64ce0849
+  - enabled: 1
+    path: "Assets/Scenes/E-SecondFolder/\uD53C\uD0C0\uACE0\uB77C\uC2A4\uC124\uBA85.unity"
+    guid: fadd231127ed4a44c811a6a4f42737cf
+  m_configObjects: {}
